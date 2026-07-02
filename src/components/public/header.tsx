@@ -31,7 +31,7 @@ export function PublicHeader({ locale }: Props) {
   return (
     <header className="sticky top-0 z-50 border-b border-border/50 bg-background/80 backdrop-blur-md">
       <Container className="flex h-16 items-center justify-between">
-        <Logo locale={locale} />
+        <Logo />
 
         {/* Desktop nav */}
         <nav className="hidden items-center gap-6 md:flex">

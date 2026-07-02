@@ -17,7 +17,7 @@ export function PublicFooter({ locale }: Props) {
       <Container className="py-12">
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           <div>
-            <Logo locale={locale} />
+            <Logo />
             <p className="mt-2 text-sm text-muted-foreground">
               {t("common.tagline")}
             </p>
