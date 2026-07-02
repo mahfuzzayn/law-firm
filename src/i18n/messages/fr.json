@@ -1,0 +1,75 @@
+{
+  "common": {
+    "siteName": "Cabinet Juridique",
+    "tagline": "Conseil &amp; Défense — Droit des affaires, droit civil, droit numérique",
+    "nav": {
+      "home": "Accueil",
+      "practiceAreas": "Domaines d'expertise",
+      "attorneys": "Avocats",
+      "insights": "Actualités",
+      "contact": "Contact",
+      "dashboard": "Tableau de bord",
+      "login": "Connexion"
+    },
+    "theme": {
+      "light": "Mode clair",
+      "dark": "Mode sombre",
+      "toggle": "Changer le thème"
+    },
+    "language": {
+      "switch": "Changer de langue",
+      "fr": "Français",
+      "en": "English"
+    },
+    "actions": {
+      "bookConsultation": "Réserver une consultation",
+      "requestAccess": "Demander un accès",
+      "learnMore": "En savoir plus",
+      "viewAll": "Voir tout",
+      "submit": "Envoyer",
+      "cancel": "Annuler",
+      "close": "Fermer"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "L'expertise juridique au service de votre entreprise",
+      "subtitle": "Un cabinet moderne axé sur le droit des affaires, le droit numérique et la défense de vos intérêts."
+    },
+    "practiceAreas": {
+      "title": "Nos domaines d'expertise",
+      "subtitle": "Une couverture juridique complète pour particuliers et entreprises"
+    },
+    "stats": {
+      "title": "Le cabinet en chiffres",
+      "cases": "Dossiers traités",
+      "clients": "Clients accompagnés",
+      "years": "Années d'exercice",
+      "lawyers": "Avocats"
+    },
+    "attorneys": {
+      "title": "Notre équipe",
+      "subtitle": "Des avocats expérimentés à votre écoute"
+    },
+    "testimonials": {
+      "title": "Témoignages",
+      "subtitle": "Ce que nos clients disent de nous"
+    },
+    "insights": {
+      "title": "Actualités &amp; Publications",
+      "subtitle": "Suivez l'actualité juridique"
+    },
+    "cta": {
+      "title": "Prêt à travailler avec nous ?",
+      "subtitle": "Réservez une consultation dès aujourd'hui",
+      "button": "Réserver une consultation"
+    }
+  },
+  "footer": {
+    "legal": "Mentions légales",
+    "cgu": "Conditions générales d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "cookies": "Gestion des cookies",
+    "rights": "Tous droits réservés."
+  }
+}

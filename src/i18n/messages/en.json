@@ -1,0 +1,75 @@
+{
+  "common": {
+    "siteName": "Law Firm",
+    "tagline": "Legal Counsel &amp; Defense — Business, Civil, and Digital Law",
+    "nav": {
+      "home": "Home",
+      "practiceAreas": "Practice Areas",
+      "attorneys": "Attorneys",
+      "insights": "Insights",
+      "contact": "Contact",
+      "dashboard": "Dashboard",
+      "login": "Log In"
+    },
+    "theme": {
+      "light": "Light mode",
+      "dark": "Dark mode",
+      "toggle": "Toggle theme"
+    },
+    "language": {
+      "switch": "Switch language",
+      "fr": "Français",
+      "en": "English"
+    },
+    "actions": {
+      "bookConsultation": "Book a Consultation",
+      "requestAccess": "Request Access",
+      "learnMore": "Learn More",
+      "viewAll": "View All",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "close": "Close"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Legal expertise for your business",
+      "subtitle": "A modern firm focused on business law, digital law, and defending your interests."
+    },
+    "practiceAreas": {
+      "title": "Our Practice Areas",
+      "subtitle": "Comprehensive legal coverage for individuals and businesses"
+    },
+    "stats": {
+      "title": "Firm by the numbers",
+      "cases": "Cases handled",
+      "clients": "Clients served",
+      "years": "Years in practice",
+      "lawyers": "Attorneys"
+    },
+    "attorneys": {
+      "title": "Our Team",
+      "subtitle": "Experienced attorneys at your service"
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "subtitle": "What our clients say about us"
+    },
+    "insights": {
+      "title": "Insights &amp; Publications",
+      "subtitle": "Stay updated on legal news"
+    },
+    "cta": {
+      "title": "Ready to work with us?",
+      "subtitle": "Book a consultation today",
+      "button": "Book a Consultation"
+    }
+  },
+  "footer": {
+    "legal": "Legal Notice",
+    "cgu": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved."
+  }
+}
